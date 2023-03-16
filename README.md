@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakashp23
+- 👋 Hi, I’m @prakash
 - 👀 I’m interested in coding (Java stack)
 - 🌱 I’m currently working as Lead solution architect
 - 💞️ I’m looking forward to contribute in architecture, design and coding.
